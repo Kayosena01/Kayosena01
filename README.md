@@ -1,3 +1,3 @@
-## Olá! Este é o meu perfil!
+# Olá
 
-<img src="https://media.tenor.com/20fM9rM6lDAAAAAM/pikachu-running.gif">
+![Pikachu Correndo](https://media.tenor.com/20fM9rM6lDAAAAAM/pikachu-running.gif)
