@@ -37,12 +37,9 @@ Estou construindo minha trajetória na área de tecnologia, buscando aprimorar m
 
 </div>
 
----
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
-
-**"A melhor maneira de aprender é colocando o conhecimento em prática."** 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=footer&text=A%20melhor%20maneira%20de%20aprender%20%C3%A9%20colocando%20o%20conhecimento%20em%20pr%C3%A1tica.&fontSize=15&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 </div>
