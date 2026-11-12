@@ -1,5 +1,3 @@
-# 👋 Olá! Eu sou o Kayo Roberto
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Kayo%20Roberto&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=55&descSize=15" width="100%"/>
 </div>
@@ -14,7 +12,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UDF.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
 Estou construindo minha trajetória na área de tecnologia, buscando aprimorar meus conhecimentos em programação e desenvolvimento de software.
 
@@ -33,7 +31,7 @@ Estou construindo minha trajetória na área de tecnologia, buscando aprimorar m
 
 ## 🌐 Vamos nos conectar?
 
- <a href="(https://www.linkedin.com/in/kayoroberto01/)">
+ <a href="https://www.linkedin.com/in/kayoroberto01/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/https://www.linkedin.com/in/kayoroberto01/>
 </a>
 
