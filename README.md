@@ -25,7 +25,7 @@ Estou construindo minha trajetória na área de tecnologia, buscando aprimorar m
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,php,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,github,vscode" />
 
 </div>
 
